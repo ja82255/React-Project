@@ -1,0 +1,37 @@
+
+
+
+.faculty-table{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 40vh;
+    gap:20px;
+    color: black;
+    background-color: white;
+    width: 30%;
+   text-align: center;
+    margin:0px 30vw;
+    /* margin-top: 20px; */
+    border-radius: 4px;
+   
+}
+
+thead th{
+    padding: 6px 8px;
+   
+}
+
+tbody td{
+    padding: 0px 8px;
+}
+
+.showdata{
+    text-decoration: none;
+    color: black;
+}
+.showdata:hover{
+    color: rgb(222, 44, 44);
+    cursor: pointer;
+    }

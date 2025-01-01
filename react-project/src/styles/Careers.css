@@ -1,0 +1,10 @@
+.careers{
+    text-decoration: none;
+    color: black;
+}
+
+.careers:hover{
+    color: rgb(222, 44, 44);
+cursor: pointer;
+
+}

@@ -1,0 +1,9 @@
+.enterprises{
+    text-decoration: none;
+    color: black;
+}
+.enterprises:hover{
+    color: rgb(222, 44, 44);
+cursor: pointer;
+}
+

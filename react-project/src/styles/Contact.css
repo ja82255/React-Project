@@ -1,0 +1,29 @@
+.contact{
+    text-decoration: none;
+    color: black;    
+
+}
+.contact:hover{
+    color: rgb(222, 44, 44);
+    cursor: pointer;
+  
+    }
+
+    #contct{
+        height: 130px;
+        width: 170px;
+       
+        position: absolute;
+        left: 660px;
+        background-color: rgb(227, 227, 227);
+        top: 70px;
+        border-radius: 4px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        gap: 8px;
+        padding-left: 30px;
+font-size: 19px;       
+    }
+
+   

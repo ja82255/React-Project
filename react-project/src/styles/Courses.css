@@ -1,0 +1,31 @@
+.courses{
+    text-decoration: none;
+    color: black;
+}
+
+.courses:hover{
+    color: rgb(222, 44, 44);
+    cursor: pointer;
+    }
+
+    #course{
+        height: 200px;
+        width: 201px;
+       
+        position: absolute;
+        left: 570px;
+        background-color: rgb(227, 227, 227);
+        top: 70px;
+        border-radius: 4px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        gap: 8px;
+        padding-left: 30px;
+        font-size: 19px;
+    }
+
+    .basic{
+        color: black;
+        text-decoration: none;
+    }

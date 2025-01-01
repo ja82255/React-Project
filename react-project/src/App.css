@@ -1,0 +1,10 @@
+.bg-container {
+  background: url("../src/assets/bg.jpg");
+  height: 87vh;
+  width: 100vw;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* position: absolute; */
+  opacity: 0.9;
+  padding-top: 120px;
+}
